@@ -32,8 +32,8 @@ Application web pour la gestion des réservations, équipements, et plannings de
 Ouvrez votre navigateur et rendez-vous sur http://localhost:3000 .
 
 ## Compte Administrateur 🔑
-Pour accéder au panneau d'administration, utilisez les identifiants suivants : \n
-Email : `ali.berkani@example.com`\n
+Pour accéder au panneau d'administration, utilisez les identifiants suivants :<br>
+Email : `ali.berkani@example.com`<br>
 Mot de passe : `admin123`
 
 ## Contribution 🤝
